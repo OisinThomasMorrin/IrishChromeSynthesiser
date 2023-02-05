@@ -1,7 +1,8 @@
-![Irish Language Chrome Extension using ABAIR](./logoabair.jpg)
+![Irish Language Chrome Extension using ABAIR](./logoabair.png)
 
 
 ## Irish Language Chrome Extension using ABAIR
+This is based off the chrome extension build by dabit3 here: https://github.com/dabit3/transilator
 
 ### Features
 
