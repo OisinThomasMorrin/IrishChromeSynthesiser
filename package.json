@@ -1,5 +1,5 @@
 {
-  "name": "chrome-extension-webpack",
+  "name": "abair-voices-chrome-extension-webpack",
   "version": "0.0.1",
   "description": "A boilerplate to chrome extension with webpack",
   "scripts": {
@@ -21,8 +21,6 @@
     "write-file-webpack-plugin": "4.5.0"
   },
   "dependencies": {
-    "@aws-amplify/predictions": "^1.0.3",
-    "aws-amplify": "^1.1.36",
     "mobx": "^5.13.0"
   }
 }
